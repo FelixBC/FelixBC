@@ -6,7 +6,7 @@
 
 > "I judge you based on your terminal theme and commands. 😂"
 
-🚀 Passionate about **Vue.js, JavaScript, Scala, and Ruby on Rails**, I thrive on building clean, efficient, and scalable applications. Currently, I'm on a mission to land a **remote role** with a **$60K+ salary** while balancing my final year of Software Engineering at UTESA.
+🚀 Passionate about **Vue.js, JavaScript, Scala, and Ruby on Rails**, I thrive on building clean, efficient, and scalable applications.
 
 ---
 
