@@ -12,7 +12,9 @@
 
 ### 🔥 **GitHub Stats & Streaks**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=FelixBC)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=FelixBC&theme=monokai-metallian&border_radius=10&fire=FF4500&ring=FF4500&sideLabels=FFFFFF&currStreakLabel=FF4500&count_private=true&include_all_commits=true)](https://git.io/streak-stats)
+
+
 
 ![Felix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelixBC&show_icons=true&theme=radical&count_private=true&hide_border=true&border_radius=10)
 
