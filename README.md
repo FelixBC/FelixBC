@@ -4,7 +4,7 @@
 
 #### 💻 **Full-Stack Developer | Frontend Enthusiast | Software Engineer in Progress**
 
-> "I judge you based on your terminal theme. 😂"
+> "I judge you based on your terminal theme and commands. 😂"
 
 🚀 Passionate about **Vue.js, JavaScript, Scala, and Ruby on Rails**, I thrive on building clean, efficient, and scalable applications. Currently, I'm on a mission to land a **remote role** with a **$60K+ salary** while balancing my final year of Software Engineering at UTESA.
 
@@ -15,10 +15,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=FelixBC&theme=monokai-metallian&border_radius=10&fire=FF4500&ring=FF4500&sideLabels=FFFFFF&currStreakLabel=FF4500&count_private=true&include_all_commits=true)](https://git.io/streak-stats)
 
 
+[![Felix's GitHub Stats](https://github-readme-stats-delta.vercel.app/api?username=FelixBC&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
-![Felix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelixBC&show_icons=true&theme=radical&count_private=true&hide_border=true&border_radius=10)
+[![Top Langs](https://github-readme-stats-delta.vercel.app/api/top-langs/?username=FelixBC&layout=compact&theme=radical&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixBC&layout=compact&theme=radical&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
