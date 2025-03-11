@@ -12,7 +12,7 @@
 
 ### 🔥 **GitHub Stats & Streaks**
 
-[![GitHub Streak](https://streak-stats.demolab.com/?FelixBC=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=FelixBC&theme=monokai-metallian&border_radius=10&fire=FF4500&ring=FF4500&sideLabels=FFFFFF&currStreakLabel=FF4500&count_private=true&include_all_commits=true)](https://git.io/streak-stats)
 
 
 
