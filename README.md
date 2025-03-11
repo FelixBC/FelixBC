@@ -57,5 +57,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felix-blanco-cabrera-b22ba21b7)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/FelixBC)
 
-💡 **Currently Working On:** Standardizing `ms-page` integration across my projects.
+💡 **Currently Working On:** Standardizing `MarkupRenderer` integration across our projects.
 
