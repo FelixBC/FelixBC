@@ -6,7 +6,7 @@
 
 > "I judge you based on your terminal theme and commands. 😂"
 
-🚀 Passionate about **Vue.js, JavaScript, Scala, and Ruby on Rails**, I thrive on building clean, efficient, and scalable applications.
+🚀 Passionate about **Vue.js, Typescript, Scala, and Ruby on Rails**, I thrive on building clean, efficient, and scalable applications.
 
 ---
 
