@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Frontend+Enthusiast;Software+Engineer+in+Progress;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-#### 💻 **Full-Stack Developer | Frontend Enthusiast | Software Engineer in Progress**
+#### 💻 **Full-Stack Developer | Vibe Coding && Frontend Enthusiast | Software Engineer in Progress**
 
 > "I judge you based on your terminal theme and commands. 😂"
 
@@ -48,7 +48,7 @@
 ✅ **5+ years of experience** (5 years studying, 5+ working full-time)
 ✅ **Great communication & teamwork skills** – I love mentoring and collaborating!
 ✅ **Enjoy problem-solving & UI/UX design**
-✅ **Hobbies:** Anything that includes moving, 🏃‍♂️ (currentely training for half an ironman!), jazz music 🎷, coffee ☕ and chess ♟️!
+✅ **Hobbies:** Anything that includes moving, 🏃‍♂️ (currentely training for half an ironman!), old soul, jazz music 🎷, coffee ☕, chess ♟️ and family time!! 
 
 ---
 
@@ -56,5 +56,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felix-blanco-cabrera-b22ba21b7)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/FelixBC)
 
-💡 **Currently Working On:** Standardizing `MarkupRenderer` integration across our projects.
-
+💡 **Currently Working On:** Enhacing frontend while maintaining `PrimeVue` essence.
