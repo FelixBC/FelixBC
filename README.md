@@ -13,8 +13,6 @@ Learning REACT RIGHT NOW!!
 
 ### 🔥 **GitHub Stats & Streaks**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=FelixBC&theme=monokai-metallian&border_radius=10&fire=FF4500&ring=FF4500&sideLabels=FFFFFF&currStreakLabel=FF4500&count_private=true&include_all_commits=true)](https://git.io/streak-stats)
- 
 [![Felix's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelixBC&show_icons=true&theme=dark&bg_color=151515&title_color=FFA500&text_color=00FF00&icon_color=FF4500&count_private=true&include_all_commits=true&hide_border=true&border_radius=10&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixBC&layout=compact&theme=dark&bg_color=151515&title_color=FFA500&text_color=00FF00&icon_color=FF4500&hide_border=true&border_radius=10&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
@@ -27,21 +25,24 @@ Learning REACT RIGHT NOW!!
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+
 
 #### Backend
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
 #### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 #### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ---
 
