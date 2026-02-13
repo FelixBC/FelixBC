@@ -50,7 +50,7 @@ Learning REACT RIGHT NOW!!
 ✅ **5+ years of experience** (5 years studying, 5+ working full-time)
 ✅ **Great communication & teamwork skills** – I love mentoring and collaborating!
 ✅ **Enjoy problem-solving & UI/UX design**
-✅ **Hobbies:** Anything that includes moving, 🏃‍♂️ (currentely training for half an ironman!), old soul, jazz music 🎷, coffee ☕, chess ♟️ and family time!! 
+✅ **Hobbies:** Anything that includes moving, 🏃‍♂️ (currentely training for half an ironman!), old soul, jazz music 🎷, coffee ☕, chess ♟️, Board or Video Games, and family time!! 
 
 ---
 
