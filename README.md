@@ -50,4 +50,4 @@ Learning REACT RIGHT NOW!!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felix-blanco-cabrera-b22ba21b7)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/FelixBC)
 
-💡 **Currently Working On:** Enhacing frontend while maintaining `PrimeVue` essence.
+💡 **Currently Working On:** Strava data sports app with React-TS: https://iraceapp.vercel.app/
