@@ -11,14 +11,6 @@ Learning REACT RIGHT NOW!!
 
 ---
 
-### 🔥 **GitHub Stats & Streaks**
-
-[![Felix's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelixBC&show_icons=true&theme=dark&bg_color=151515&title_color=FFA500&text_color=00FF00&icon_color=FF4500&count_private=true&include_all_commits=true&hide_border=true&border_radius=10&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixBC&layout=compact&theme=dark&bg_color=151515&title_color=FFA500&text_color=00FF00&icon_color=FF4500&hide_border=true&border_radius=10&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 🛠 **Tech Stack**
 
 #### Frontend
