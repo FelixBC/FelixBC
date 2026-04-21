@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Frontend+Enthusiast;Software+Engineer+in+Progress;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-#### 💻 **Full-Stack Developer | Vibe Coding && Frontend Enthusiast | Software Engineer in Progress**
+#### 💻 **Full-Stack Developer | Agentic Coding && Frontend Enthusiast | Software Engineer in Progress**
 
 > "I judge you based on your terminal theme and commands. 😂"
 
